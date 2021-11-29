@@ -1,0 +1,4 @@
+co/com/choucair/certification/proyectoestudio/runners/RunnerTags.java
+ co.com.choucair.certification.proyectoestudio.runners.RunnerTags
+co/com/choucair/certification/proyectoestudio/stepdefinitions/RetoUtestStepDefinitions.java
+ co.com.choucair.certification.proyectoestudio.stepdefinitions.RetoUtestStepDefinitions
